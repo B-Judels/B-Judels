@@ -50,12 +50,12 @@
 </div>
 
 <div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
-    <img src="https://www.flaticon.com/free-icon/database_9594702.png" alt="SQL logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <img src="https://www.google.com/imgres?q=sql%20logo&imgurl=https%3A%2F%2Fsymbols.getvecta.com%2Fstencil_28%2F61_sql-database-generic.90b41636a8.png&imgrefurl=https%3A%2F%2Fvecta.io%2Fsymbols%2F28%2Fmicrosoft-azure-color%2F61%2Fsql-database-generic&docid=3srK174-FZS-tM&tbnid=9EJQrafYVgZUMM&vet=12ahUKEwjS-Y_QpqSJAxXgywIHHbgsOHQQM3oECFIQAA..i&w=300&h=300&hcb=2&ved=2ahUKEwjS-Y_QpqSJAxXgywIHHbgsOHQQM3oECFIQAA.png" alt="SQL logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
     <span style="text-align: center; font-weight: bold; color: black;">SQL</span>
 </div>
 
 <div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
-    <img src="https://www.flaticon.com/free-icon/git_11518876" alt="Git logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27401%2Fgit&psig=AOvVaw3NAnFzwOeazi-xu8z4X4Hz&ust=1729765858273000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCPmaGmpIkDFQAAAAAdAAAAABAK.png" alt="Git logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
     <span style="text-align: center; font-weight: bold; color: black;">Git</span>
 </div>
 
