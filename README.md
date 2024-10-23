@@ -12,12 +12,63 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Tech Stack Block for Java -->
-<div>
-<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+
+<div style="display: inline;">
+<div style="display: inline; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
     <span style="text-align: center; font-weight: bold; color: black;">Java</span>
 </div>
+    
+<div style="display: inline; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java Swing logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">Java Swing</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C# logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">C#</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">JavaScript</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">TypeScript</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">HTML</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/11516/11516361.png" alt="CSS logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">CSS</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://www.flaticon.com/free-icon/database_9594702.png" alt="SQL logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">SQL</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://www.flaticon.com/free-icon/git_11518876" alt="Git logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">Git</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png" alt="GitHub logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">GitHub</span>
+</div>
+
+<div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: #f5f5dc; border: 1px solid #ddd; margin-bottom: 10px; padding: 5px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5440/5440062.png" alt="PhotoShop logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
+    <span style="text-align: center; font-weight: bold; color: black;">PhotoShop</span>
+</div>
+  
 </div>
 <br>
 
