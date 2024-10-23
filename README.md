@@ -14,7 +14,7 @@
 
 <!-- Tech Stack Block for Java -->
 <div style="display: flex; align-items: center; width: 200px; height: 40px; background-color: white; border: 1px solid #ddd; margin-bottom: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java logo" style="width: 30px; height: 30px; margin-left: 5px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java logo" style="width: 30px; height: 30px; margin-left: 5px; vertical-align: middle;"/>
     <span style="flex-grow: 1; text-align: center; font-weight: bold; color: black;">Java</span>
 </div>
 
