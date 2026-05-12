@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/bernard-judels-6b9784329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernard-judels-6b9784329" height="30" width="40" /></a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 
 
@@ -68,6 +69,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5440/5440062.png" alt="PhotoShop logo" style="width: 30px; height: 30px; margin-right: 10px;"/>
     <span style="text-align: center; font-weight: bold; color: black;">PhotoShop</span>
 </div>
+
+-->
   
 </div>
 <br>
